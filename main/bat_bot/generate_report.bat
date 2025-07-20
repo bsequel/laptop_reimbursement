@@ -1,0 +1,1 @@
+C:/Users/hp/AppData/Local/Programs/Python/Python312/python.exe c:/Users/hp/Desktop/ss/main/BOT/make_report.py

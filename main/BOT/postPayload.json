@@ -1,0 +1,316 @@
+{
+    "lstLaptops": [
+        {
+            "Device_Serial_Number": "HXJLWF4H1WFV",
+            "Asset_Number": "81000001750"
+        },
+        {
+            "Device_Serial_Number": "SJJ4G24VX99",
+            "Asset_Number": "81000001751"
+        },
+        {
+            "Device_Serial_Number": "SKQ10MF4T2P",
+            "Asset_Number": "81000001752"
+        },
+        {
+            "Device_Serial_Number": "HXJLWF4H1WFV",
+            "Asset_Number": "81000001753"
+        },
+        {
+            "Device_Serial_Number": "8CG3122GG4",
+            "Asset_Number": "81000001754"
+        },
+        {
+            "Device_Serial_Number": "BOCM36VW4Q",
+            "Asset_Number": "81000001755"
+        },
+        {
+            "Device_Serial_Number": "PW07P5HR",
+            "Asset_Number": "81000001756"
+        },
+        {
+            "Device_Serial_Number": "JLWX52Q9WG",
+            "Asset_Number": "81000001757"
+        },
+        {
+            "Device_Serial_Number": "CND33602FH",
+            "Asset_Number": "81000001758"
+        },
+        {
+            "Device_Serial_Number": "CND3261RGV",
+            "Asset_Number": "81000001759"
+        },
+        {
+            "Device_Serial_Number": "FK79LL9DKV",
+            "Asset_Number": "81000001762"
+        },
+        {
+            "Device_Serial_Number": "5CG1015DT9",
+            "Asset_Number": "81000001763"
+        },
+        {
+            "Device_Serial_Number": "SMG2XJ9DQ9X",
+            "Asset_Number": "81000001764"
+        },
+        {
+            "Device_Serial_Number": "HDHRWRNG6F",
+            "Asset_Number": "81000001766"
+        },
+        {
+            "Device_Serial_Number": "J39KP257DR",
+            "Asset_Number": "81000001767"
+        },
+        {
+            "Device_Serial_Number": "HWMV3PW90X",
+            "Asset_Number": "81000001768"
+        },
+        {
+            "Device_Serial_Number": "B09V4FNFHN",
+            "Asset_Number": "81000001770"
+        },
+        {
+            "Device_Serial_Number": "9ZLSFD3",
+            "Asset_Number": "81000001771"
+        },
+        {
+            "Device_Serial_Number": "OPD2203",
+            "Asset_Number": "81000001772"
+        },
+        {
+            "Device_Serial_Number": "CK47424",
+            "Asset_Number": "81000001773"
+        },
+        {
+            "Device_Serial_Number": "356467781166278",
+            "Asset_Number": "81000001775"
+        },
+        {
+            "Device_Serial_Number": "SX1LP95D9GW",
+            "Asset_Number": "81000001776"
+        },
+        {
+            "Device_Serial_Number": "R52X401J3GW",
+            "Asset_Number": "81000001777"
+        },
+        {
+            "Device_Serial_Number": "JX2Q4F374N",
+            "Asset_Number": "81000001779"
+        },
+        {
+            "Device_Serial_Number": "21DJAOYOIN",
+            "Asset_Number": "81000001780"
+        },
+        {
+            "Device_Serial_Number": "B09V4FNFHN",
+            "Asset_Number": "81000001781"
+        },
+        {
+            "Device_Serial_Number": "B0C3V556WG",
+            "Asset_Number": "81000001782"
+        },
+        {
+            "Device_Serial_Number": "M9V6LH07F9",
+            "Asset_Number": "81000001783"
+        },
+        {
+            "Device_Serial_Number": "5CD2526MK5",
+            "Asset_Number": "81000001785"
+        },
+        {
+            "Device_Serial_Number": "K2308N0215655",
+            "Asset_Number": "81000001786"
+        },
+        {
+            "Device_Serial_Number": "RZ2X300G2NE",
+            "Asset_Number": "81000001787"
+        },
+        {
+            "Device_Serial_Number": "5CD412GR8Q",
+            "Asset_Number": "81000001788"
+        },
+        {
+            "Device_Serial_Number": "GQF91DVWG4",
+            "Asset_Number": "81000001789"
+        },
+        {
+            "Device_Serial_Number": "HNQ9FT6RNW",
+            "Asset_Number": "81000001790"
+        },
+        {
+            "Device_Serial_Number": "SCX9CNK7GWF",
+            "Asset_Number": "81000001792"
+        },
+        {
+            "Device_Serial_Number": "SF4TG2WNCJQ",
+            "Asset_Number": "81000001793"
+        },
+        {
+            "Device_Serial_Number": "CND4114253",
+            "Asset_Number": "81000001794"
+        },
+        {
+            "Device_Serial_Number": "B09V4JW485",
+            "Asset_Number": "81000001795"
+        },
+        {
+            "Device_Serial_Number": "DT7VHQR4X0",
+            "Asset_Number": "81000001796"
+        },
+        {
+            "Device_Serial_Number": "BF7GPX3",
+            "Asset_Number": "81000001797"
+        },
+        {
+            "Device_Serial_Number": "SD4Y1XWR0YX",
+            "Asset_Number": "81000001799"
+        },
+        {
+            "Device_Serial_Number": "SL1F2MJ29DV",
+            "Asset_Number": "81000001800"
+        },
+        {
+            "Device_Serial_Number": "SF7L3YG927K",
+            "Asset_Number": "81000001801"
+        },
+        {
+            "Device_Serial_Number": "KJH2PM9CTW",
+            "Asset_Number": "81000001803"
+        },
+        {
+            "Device_Serial_Number": "SMP2K6SAT",
+            "Asset_Number": "81000001804"
+        },
+        {
+            "Device_Serial_Number": "350635071257041",
+            "Asset_Number": "81000001805"
+        },
+        {
+            "Device_Serial_Number": "MP2K61QG",
+            "Asset_Number": "81000001806"
+        },
+        {
+            "Device_Serial_Number": "CQ0PXW1WHG",
+            "Asset_Number": "81000001808"
+        },
+        {
+            "Device_Serial_Number": "2XRJDS3",
+            "Asset_Number": "81000001809"
+        },
+        {
+            "Device_Serial_Number": "MP2N7M8C",
+            "Asset_Number": "81000001810"
+        },
+        {
+            "Device_Serial_Number": "BOCHZ23M74",
+            "Asset_Number": "81000001812"
+        },
+        {
+            "Device_Serial_Number": "NHQLTSI006428077BD7600",
+            "Asset_Number": "An Error found while posting AS01"
+        },
+        {
+            "Device_Serial_Number": "SGH63RPW6JX",
+            "Asset_Number": "An Error found while posting AS01"
+        },
+        {
+            "Device_Serial_Number": "7GR3SF3",
+            "Asset_Number": "81000001813"
+        },
+        {
+            "Device_Serial_Number": "PF4WELWL PF9XB4520335",
+            "Asset_Number": "An Error found while posting AS01"
+        },
+        {
+            "Device_Serial_Number": "CND03974W7",
+            "Asset_Number": "81000001815"
+        },
+        {
+            "Device_Serial_Number": "CND4233P51",
+            "Asset_Number": "81000001816"
+        },
+        {
+            "Device_Serial_Number": "S6NRKD00124425A",
+            "Asset_Number": "81000001817"
+        },
+        {
+            "Device_Serial_Number": "B0CM5R4FP5",
+            "Asset_Number": "81000001818"
+        },
+        {
+            "Device_Serial_Number": "SM-X610NZSE",
+            "Asset_Number": "81000001820"
+        },
+        {
+            "Device_Serial_Number": "L0JW9YFJ99",
+            "Asset_Number": "81000001821"
+        },
+        {
+            "Device_Serial_Number": "8HF4C33",
+            "Asset_Number": "81000001822"
+        },
+        {
+            "Device_Serial_Number": "CND34808JC",
+            "Asset_Number": "81000001760"
+        },
+        {
+            "Device_Serial_Number": "82S9014MIN",
+            "Asset_Number": "81000001765"
+        },
+        {
+            "Device_Serial_Number": "SCH2JYCTVP4",
+            "Asset_Number": "81000001769"
+        },
+        {
+            "Device_Serial_Number": "B0CHJJZ9G8",
+            "Asset_Number": "81000001824"
+        },
+        {
+            "Device_Serial_Number": "QH19V6Q9CL",
+            "Asset_Number": "81000001774"
+        },
+        {
+            "Device_Serial_Number": "B09V4JW485",
+            "Asset_Number": "81000001778"
+        },
+        {
+            "Device_Serial_Number": "W6650505D99N00056",
+            "Asset_Number": "81000001784"
+        },
+        {
+            "Device_Serial_Number": "HXH47734VY",
+            "Asset_Number": "81000001791"
+        },
+        {
+            "Device_Serial_Number": "SDP70FV1X9F",
+            "Asset_Number": "81000001798"
+        },
+        {
+            "Device_Serial_Number": "SHJ2CFQVRKJ",
+            "Asset_Number": "81000001802"
+        },
+        {
+            "Device_Serial_Number": "SK3W4129YKP",
+            "Asset_Number": "81000001807"
+        },
+        {
+            "Device_Serial_Number": "CRG4456904",
+            "Asset_Number": "81000001811"
+        },
+        {
+            "Device_Serial_Number": "SJ2G19FMK4T",
+            "Asset_Number": "An Error found while posting AS01"
+        },
+        {
+            "Device_Serial_Number": "B09V4JW485",
+            "Asset_Number": "81000001814"
+        },
+        {
+            "Device_Serial_Number": "B0CRKXDX83",
+            "Asset_Number": "81000001819"
+        },
+        {
+            "Device_Serial_Number": "CND4220Z2B",
+            "Asset_Number": "81000001823"
+        }
+    ]
+}

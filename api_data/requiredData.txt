@@ -1,0 +1,16 @@
+description = 12.9 inch iPad M2 Pro WiFi + Cellular 256 GB Magic Keyboard for iPad Pro Apple Pencil (2nd Generation Apple Care+ for iPad Pro
+
+description = description
+serialNumber = 'SKQ10MF4T2P'
+invoiceNumber = 'TI/LN/2324/9697'
+costCenter = "2010090"   => Pending
+plant = "2000"   => Pending
+personalNumber = "100019"
+state" = "30"   => Pending
+evaluationGroup = "1038"
+vendor code = "20000380"   => Pending
+manufacturer = "HP"   => Pending
+countryOfOrigins = "IN"
+dateOfPuchase = "04.03.2024"
+reimbValue = "159300"
+useLife = "3"   => Pending
